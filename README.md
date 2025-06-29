@@ -1,6 +1,7 @@
--  Hi, I’m Yogesh Baghel.
--  I’m interested in Exploring new technologies.
--  I’m currently learning MERN Stack.
+ Hi, I’m Yogesh Baghel.
+Full-stack developer specializing in React, Next.js, and MongoDB
+Focused on building scalable, user-centric web applications
+Continuously learning and contributing to open-source projects
 
 
 
